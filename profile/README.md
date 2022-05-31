@@ -1,6 +1,8 @@
 ## University of Cologne
 ### CompetenceCenter E-Learning
 
+#### The CompetenceCenter E-Learning supports the central e-learning platform ILIAS and e-learning projects from all faculties of the University of Cologne.
+
 For more information, click here:
 https://elearning.uni-koeln.de/
 
